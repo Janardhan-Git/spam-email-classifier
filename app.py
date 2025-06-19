@@ -1,4 +1,4 @@
-import streamlit as st
+ import streamlit as st
 from src.predict import predict_email
 
 st.set_page_config(page_title="Spam Email Classifier")
